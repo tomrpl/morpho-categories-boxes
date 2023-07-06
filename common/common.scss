@@ -217,6 +217,7 @@
       margin-inline-end: 4px !important;
       width: 16px !important;
     }
+    z-index: 1;
   }
   .category-box-heading {
     margin-bottom: 6px;
@@ -243,6 +244,7 @@
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
+    z-index: 1;
   }
   .subcategory {
     display: none;
