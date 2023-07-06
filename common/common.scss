@@ -92,7 +92,7 @@
   display: grid;
   gap: 18px;
   grid-auto-flow: row;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   .group-box {
     background-color: var(--secondary);
     border: 0 !important;
