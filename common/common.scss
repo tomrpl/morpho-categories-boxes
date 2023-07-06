@@ -74,13 +74,15 @@
   .category-boxes,
   .category-boxes-with-topics,
   .category-list.subcategory-list,
+  .categories-list {
+    height: 150px;
+  }
   .column.categories,
   .category-list,
   .muted-categories {
     display: none;
     visibility: hidden;
   }
-  height: 150px;
 }
 
 .category-title-contents {
